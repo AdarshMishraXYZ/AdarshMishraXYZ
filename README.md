@@ -64,7 +64,10 @@ Production-grade complaint management platform with automated department routing
 ## 📫 Connect With Me
 
 📧 Email: 7890adarshmishra@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/adarsh-mishra-a6ba6b362/
+
+
+🔗 LinkedIn: https://www.linkedin.com/in/adarsh-mishra-a6ba6b362/  
+
 🐙 GitHub: https://github.com/AdarshMishraXYZ
 
 
