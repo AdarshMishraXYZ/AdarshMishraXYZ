@@ -45,7 +45,7 @@ Production-grade complaint management platform with automated department routing
 - Keyword-based explainable routing engine with confidence scoring
 - Optimistic concurrency control on status transitions (version column + 409 Conflict)
 - Department-scoped authorization enforced at query level, not just UI
-- Full state machine: SUBMITTED → UNDER_REVIEW → ASSIGNED → IN_PROGRESS → VERIFICATION → RESOLVED → CLOSED
+- Full state machine: SUBMITTED → UNDER_REVIEW → ASSIGNED → IN_PROGRESS → RESOLVED → CLOSED
 - Staff approval gate — all staff accounts start PENDING until admin approves
 - **Stack:** React • Node.js • Express • PostgreSQL • Prisma • Socket.IO • AWS • S3
 
