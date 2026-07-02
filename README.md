@@ -20,7 +20,7 @@ Still learning.
 
 **Databases & Tools:** PostgreSQL • Prisma ORM • Git • AWS RDS • Amazon S3
 
-**ML & AI:** XGBoost • SMOTE • scikit-learn • LangChain
+**ML & AI:** XGBoost • SMOTE • scikit-learn 
 
 **Frontend:** React • Vite • Tailwind CSS • Recharts
 
