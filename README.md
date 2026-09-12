@@ -1,8 +1,6 @@
 # Hi, I'm Adarsh Mishra 👋
 
 🎓 B.Tech student at NIT Allahabad (2024–2028)
-💻 Full-Stack & AI Systems Enthusiast
-🚀 Building production-grade applications combining backend engineering, ML, and real-world workflows
 
 ---
 
