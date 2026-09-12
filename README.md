@@ -14,9 +14,9 @@ Still learning.
 
 **Languages:** JavaScript • Python • SQL
 
-**Backend & APIs:** Node.js • Express.js • FastAPI • REST APIs • JWT Authentication • Socket.IO
+**Backend & APIs:** Node.js • FastAPI • REST APIs • JWT Authentication • Socket.IO
 
-**Databases & Tools:** PostgreSQL • Prisma ORM • Git • AWS RDS • Amazon S3
+**Databases & Tools:** PostgreSQL • Prisma ORM • Git 
 
 **ML & AI:** XGBoost • SMOTE • scikit-learn 
 
