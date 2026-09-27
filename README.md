@@ -23,7 +23,7 @@ Serverless AI-first healthcare PWA using Google Gemini for real-time clinical tr
 --Feature-Sliced Design architecture, Context API + localStorage persistence, optimistic UI updates
 --Stack: React 19 • TypeScript • Vite 8 • Tailwind CSS v4 • Google Gemini 1.5 Flash • Vercel
 
-🔗 [Live Demo](https://cura-health-eight.vercel.app/) • Repo
+🔗 [Live Demo](https://cura-health-eight.vercel.app/) • [Repo](https://github.com/AdarshMishraXYZ/cura-health)
 
 ### 🔹 AML Fraud Detection System
 Full-stack Anti-Money Laundering detection platform using ML to identify fraudulent transactions in real time.
