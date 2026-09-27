@@ -13,16 +13,15 @@ Still learning.
 
 ## 🚧 Featured Projects
 
-### 🔹Cura Health
+###🔹 Cura Health
 Serverless AI-first healthcare PWA using Google Gemini for real-time clinical triage, symptom analysis, and intelligent doctor booking — entirely in-browser with zero backend infrastructure.
 
---Hybrid agentic AI pipeline: live Gemini 1.5 Flash triage with a rule-based local fallback engine when no API key is present
---Interactive 2D body map, PDF/image lab report analysis (multimodal LLM), and a drug interaction checker
---End-to-end booking flow — doctor comparison, appointment scheduling, QR digital pass, and .ics calendar export
---Medication tracker with adherence streaks, family health profiles, and a dedicated clinician/doctor workstation view
---Feature-Sliced Design architecture, Context API + localStorage persistence, optimistic UI updates
---Stack: React 19 • TypeScript • Vite 8 • Tailwind CSS v4 • Google Gemini 1.5 Flash • Vercel
-
+Hybrid agentic AI pipeline: live Gemini 1.5 Flash triage with a rule-based local fallback engine when no API key is present
+Interactive 2D body map, PDF/image lab report analysis (multimodal LLM), and a drug interaction checker
+End-to-end booking flow — doctor comparison, appointment scheduling, QR digital pass, and .ics calendar export
+Medication tracker with adherence streaks, family health profiles, and a dedicated clinician/doctor workstation view
+Feature-Sliced Design architecture, Context API + localStorage persistence, optimistic UI updates
+Stack: React 19 • TypeScript • Vite 8 • Tailwind CSS v4 • Google Gemini 1.5 Flash • Vercel
 🔗 [Live Demo](https://cura-health-eight.vercel.app/) • [Repo](https://github.com/AdarshMishraXYZ/cura-health)
 
 ### 🔹 AML Fraud Detection System
