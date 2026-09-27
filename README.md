@@ -10,19 +10,6 @@ I'm a 3rd year B.Tech student at NIT Allahabad who builds things to understand h
 Currently into backend systems, ML pipelines, and figuring out how to make them production-ready.
 Still learning.
 
-## 🛠 Tech Stack
-
-**Languages:** JavaScript • Python • SQL
-
-**Backend & APIs:** Node.js • FastAPI • REST APIs • JWT Authentication • Socket.IO
-
-**Databases & Tools:** PostgreSQL • Prisma ORM • Git 
-
-**ML & AI:** XGBoost • SMOTE • scikit-learn 
-
-**Frontend:** React • Vite • Tailwind CSS • Recharts
-
----
 
 ## 🚧 Featured Projects
 
